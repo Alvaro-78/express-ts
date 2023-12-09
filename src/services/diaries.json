@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"date": "2017-01-01",
+		"weather": "sunny",
+		"visibility": "poor",
+		"comment": "Pretty scary flight, I'm glad I'm alive"
+	},
+	{
+		"id": 2,
+		"date": "2017-01-01",
+		"weather": "rainy",
+		"visibility": "poor",
+		"comment": "everything went better than expected, I'm learning much"
+	},
+	{
+		"id": 3,
+		"date": "2017-01-01",
+		"weather": "sunny",
+		"visibility": "poor",
+		"comment": "Pretty fly for a white guy"
+	},
+	{
+		"id": 4,
+		"date": "2017-01-01",
+		"weather": "winy",
+		"visibility": "poor",
+		"comment": "Pretty scary flight, I'm glad I'm alive"
+	},
+	{
+		"id": 4,
+		"date": "2017-01-01",
+		"weather": "cloudy",
+		"visibility": "good",
+		"comment": "Pretty scary flight, I'm glad I'm alive"
+	}
+]
